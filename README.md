@@ -4,6 +4,7 @@ Bienvenue sur mon profil GitHub Je suis développeur web et mobile passionné pa
 - HTML5,CSS3,SCSS,JS
 - React,Angular,TS,React-native
 - Tailwind CSS ,Bootstrap5
+- Nodejs,PHP,C#,Java
 
 N'hésitez pas à consulter mon site web pour ensavoir plus de sur mes différents services le lien est sur mon profil 🤝 !
 
