@@ -6,5 +6,5 @@ Bienvenue sur mon profil GitHub Je suis développeur web et mobile passionné pa
 - Tailwind CSS ,Bootstrap5
 - Nodejs,PHP,C#,Java
 
-N'hésitez pas à consulter mon site web pour ensavoir plus de sur mes différents services le lien est sur mon profil 🤝 !
+N'hésitez pas à consulter mon site web pour en savoir plus sur mes différents services le lien est sur mon profil 🤝 !
 
