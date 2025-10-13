@@ -8,23 +8,23 @@ J’ai réalisé plusieurs projets complets, notamment des sites web responsives
 
 🧠 Technologies & Compétences
 
-Frontend : HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Angular, React Native
+👉 Frontend : HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Angular, React Native
 
-Backend : Node.js, PHP, C#, Java
+👉 Backend : Node.js, PHP, C#, Java
 
-UI/UX & Design : Figma, Tailwind CSS, Bootstrap 5
+👉 UI/UX & Design : Figma, Tailwind CSS, Bootstrap 5
 
-Autres compétences : API REST, conception UML, base de données SQL, Git/GitHub , Docker
+👉 Autres compétences : API REST, conception UML, base de données SQL/MongoDb/PostgreSQL, Git/GitHub , Docker , Gestion de Projet Agile
 
 🚀 Ce que j’apporte
 
-Une approche orientée performance et expérience utilisateur
+✅ Une approche orientée performance et expérience utilisateur
 
-Une forte capacité d’adaptation et d’apprentissage continu
+✅ Une forte capacité d’adaptation et d’apprentissage continu
 
-Une passion réelle pour la création de produits utiles et design
+✅ Une passion réelle pour la création de produits utiles et design
 
-Un esprit collaboratif et curieux, toujours prêt à relever de nouveaux défis
+✅ Un esprit collaboratif et curieux, toujours prêt à relever de nouveaux défis
 
 📫 N’hésitez pas à consulter mon site web et à me contacter pour collaborer ou découvrir mes projets :
 👉 https://dimitribonsou.vercel.app
