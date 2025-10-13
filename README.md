@@ -1,10 +1,33 @@
-# Hey Je suis Dimidev 👋
-Bienvenue sur mon profil GitHub Je suis développeur web et mobile passionné par la technologie et l'innovation. J'ai deja mis sur pied plusieurs projets parmis lesquels les sites webs reponsif utilisable sur toute les tailles d'ecran consultable via mon site web.
-## Technologies
-- HTML5,CSS3,SCSS,JS
-- React,Angular,TS,React-native
-- Tailwind CSS ,Bootstrap5
-- Nodejs,PHP,C#,Java
+👋 Hey, moi c’est Dimidev
 
-N'hésitez pas à consulter mon site web et a me contacter pour beneficier de  mes différents services le lien est sur mon profil 🤝 !
+Bienvenue sur mon profil GitHub !
+Je suis Développeur Fullstack & Web/Mobile Designer, passionné par la technologie, l’innovation et la création d’expériences numériques modernes.
+
+💡 J’aime concevoir des solutions efficaces, intuitives et esthétiques, du design à l’intégration, en passant par le développement backend.
+J’ai réalisé plusieurs projets complets, notamment des sites web responsives et des applications web dynamiques, visibles sur mon portfolio
+
+🧠 Technologies & Compétences
+
+Frontend : HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Angular, React Native,Tailwind Css , Bootstrap 5
+
+Backend : Node.js, PHP, C#, Java
+
+UI/UX & Design : Figma, Tailwind CSS, Bootstrap 5
+
+Autres compétences : API REST, conception UML, base de données SQL, Git/GitHub
+
+🚀 Ce que j’apporte
+
+Une approche orientée performance et expérience utilisateur
+
+Une forte capacité d’adaptation et d’apprentissage continu
+
+Une passion réelle pour la création de produits utiles et design
+
+Un esprit collaboratif et curieux, toujours prêt à relever de nouveaux défis
+
+📫 N’hésitez pas à consulter mon site web et à me contacter pour collaborer ou découvrir mes projets :
+👉 https://dimitribonsou.vercel.app
+
+💬 “Le code est un art, et chaque ligne est une opportunité de créer quelque chose d’unique.”
 
