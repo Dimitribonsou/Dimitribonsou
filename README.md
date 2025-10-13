@@ -8,13 +8,13 @@ J’ai réalisé plusieurs projets complets, notamment des sites web responsives
 
 🧠 Technologies & Compétences
 
-Frontend : HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Angular, React Native,Tailwind Css , Bootstrap 5
+Frontend : HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Angular, React Native
 
 Backend : Node.js, PHP, C#, Java
 
 UI/UX & Design : Figma, Tailwind CSS, Bootstrap 5
 
-Autres compétences : API REST, conception UML, base de données SQL, Git/GitHub
+Autres compétences : API REST, conception UML, base de données SQL, Git/GitHub , Docker
 
 🚀 Ce que j’apporte
 
