@@ -12,6 +12,7 @@ J’ai réalisé plusieurs projets complets, notamment des sites web responsives
 
 👉 Backend : Node.js, PHP, C#, Java (Sping Boot)
 👉 UI/UX & Design : Figma, Tailwind CSS, Bootstrap 5
+
 👉 Architecture : Layered Architecture, Microservice , Clean Architecture , Architecture Hexagonale
 
 👉 Autres compétences : API REST, conception UML, base de données SQL/MongoDb/PostgreSQL, Git/GitHub , Docker , Github Action
