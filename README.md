@@ -1,7 +1,7 @@
 👋 Hey, moi c’est Dimitri Bonsou (Dimidev)
 
 Bienvenue sur mon profil GitHub !
-Je suis Développeur Fullstack & Web/Mobile Designer, passionné par la technologie, l’innovation et la création d’expériences numériques modernes.
+Je suis Développeur Fullstack  Web/Mobile  & UX Designer, passionné par la technologie, l’innovation et la création d’expériences numériques modernes.
 
 💡 J’aime concevoir des solutions efficaces, intuitives et esthétiques, du design à l’intégration, en passant par le développement backend.
 J’ai réalisé plusieurs projets complets, notamment des sites web responsives et des applications web dynamiques, visibles sur mon portfolio
