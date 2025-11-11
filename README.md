@@ -10,7 +10,7 @@ J’ai réalisé plusieurs projets complets, notamment des sites web responsives
 
 👉 Frontend : HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Angular, React Native
 
-👉 Backend : Node.js, PHP, C#, Java
+👉 Backend : Node.js, PHP, C#, Java (Sping Boot)
 
 👉 UI/UX & Design : Figma, Tailwind CSS, Bootstrap 5
 
