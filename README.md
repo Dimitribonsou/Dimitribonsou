@@ -14,7 +14,7 @@ J’ai réalisé plusieurs projets complets, notamment des sites web responsives
 
 👉 UI/UX & Design : Figma, Tailwind CSS, Bootstrap 5
 
-👉 Autres compétences : API REST, conception UML, base de données SQL/MongoDb/PostgreSQL, Git/GitHub , Docker , Gestion de Projet Agile
+👉 Autres compétences : API REST, conception UML, base de données SQL/MongoDb/PostgreSQL, Git/GitHub , Docker , Gestion de Projet Agile , Mise en place des architectures complexe ( Microservice , Clean Architecture , Architecture Hexagonale)
 
 🚀 Ce que j’apporte
 
