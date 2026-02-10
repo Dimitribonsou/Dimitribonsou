@@ -29,7 +29,7 @@ J’ai réalisé plusieurs projets complets, notamment des sites web responsives
 ✅ Un esprit collaboratif et curieux, toujours prêt à relever de nouveaux défis
 
 📫 N’hésitez pas à consulter mon site web et à me contacter pour collaborer ou découvrir mes projets :
-👉 https://dimitribonsou.vercel.app
+👉 https://dimitribonsou.fr
 
 💬 “Le code est un art, et chaque ligne est une opportunité de créer quelque chose d’unique.”
 
