@@ -16,7 +16,7 @@ J’ai réalisé plusieurs projets complets, notamment des sites web responsives
 
 👉 Architecture : Layered Architecture, Microservice , Clean Architecture , Architecture Hexagonale
 
-👉 Autres compétences : API REST, conception UML, base de données SQL/MongoDb/PostgreSQL, Git/GitHub , Docker , Github Action
+👉 Autres compétences : API REST, conception UML, base de données SQL/MongoDb/PostgreSQL, Git/GitHub , Docker , Github Action , GitLab CI
 
 🚀 Ce que j’apporte
 
