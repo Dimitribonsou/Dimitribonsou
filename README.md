@@ -1,4 +1,4 @@
-👋 Hey, moi c’est Dimitri Bonsou (Dimidev)
+👋 Hey, Je suis Dimitri Bonsou (Dimidev)
 
 Bienvenue sur mon profil GitHub !
 Je suis Développeur Fullstack   & UX Designer, passionné par la technologie, l’innovation et la création d’expériences numériques modernes.
